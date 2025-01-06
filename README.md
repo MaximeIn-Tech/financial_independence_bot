@@ -14,4 +14,6 @@ For all others countries, it will automatically calculate the taxation with 30%.
 
 ## To do later:
 
-- [ ] Give the user the choice of the % taxation
+- [ ] Give the user the choice of the % taxation.
+- [ ] Add more locales in messages.
+- [ ] Potentially add menus instead of commands.
