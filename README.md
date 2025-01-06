@@ -13,4 +13,4 @@ For all others countries, it will automatically calculate the taxation with 30%.
 ## To do later:
 
 - [x] Give the user the choice of the % taxation
-- [] Give the user the choice of the % taxation
+- [ ] Give the user the choice of the % taxation
