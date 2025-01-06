@@ -12,6 +12,8 @@ For all others countries, it will automatically calculate the taxation with 30%.
 
 ![Screenshot to show the bot](/ressources/images/exemple.png)
 
+This is a test
+
 ## To do later:
 
 - [ ] Give the user the choice of the % taxation
